@@ -38,3 +38,4 @@ Make sure you have Python installed on your system. You can download it from [py
 ---
 
 ## 🎥 Demo
+![Puzzle Game Demo](PuzzleDemo.gif)
