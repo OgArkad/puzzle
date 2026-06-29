@@ -34,3 +34,7 @@ Make sure you have Python installed on your system. You can download it from [py
    ```bash
    git clone https://github.com/OgArkad/puzzle.git
    cd PUZZLE
+
+---
+
+## 🎥 Demo
